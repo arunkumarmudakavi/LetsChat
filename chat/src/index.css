@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.right{
+    background: #f08989;
+    color: rgb(0, 0, 0);
+    width:fit-content;
+    padding: 0.5rem;
+    border-radius: .3rem;
+    float: right;
+}
+
+.left{
+    background: #f6dcdc;
+    color: #000000;
+    width:fit-content;
+    padding: 0.5rem;
+    border-radius: .3rem;
+    float: left;
+    
+}
+
+.messageBox{
+    width: 40%;
+    display: inline-block;
+    clear: both;
+}

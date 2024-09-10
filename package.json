@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "vite": "^5.4.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4",
+    "prettier": "^3.3.3"
+  }
+}
